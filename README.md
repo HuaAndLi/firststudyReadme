@@ -123,7 +123,7 @@
 
     - 主要需要修改其generatorConfig.xml文件
 
-  ![image-20211224150238071](文档/Mybatis-Generator使用说明.png)
+  ![image-20211224150238071](img/video_thumb.png)
 
 ---
 
